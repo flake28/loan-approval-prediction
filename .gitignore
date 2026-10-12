@@ -1,0 +1,7 @@
+.venv/
+.DS_Store
+__pycache__/
+*.pyc
+loan_approval_submission.zip
+MST mini Project statements*.pdf
+.claude/
